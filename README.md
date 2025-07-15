@@ -1,11 +1,11 @@
 <img src="https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png" alt="banner" width="100%" hight="200px"/>
 
-# Hi 👋
+# Hi 
 
 ## Who am I?
 
-- 🎓 Second-year Computer Science Student  
-- 💻 Front-End & UI/UX Learner  
+- 🎓 Third-year Computer Science Student  
+- 💻 Front-End & UI/UX designer  
 - 🌍 Passionate about web design and creative coding  
 - 📌 Dreaming of launching my own web studio
 
