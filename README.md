@@ -1,4 +1,4 @@
-<img src="[https://i.imgur.com/xyz123.png](https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png)" alt="banner" width="100%"/>
+<img src="https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png" alt="banner" width="100%"/>
 
 # Hi 👋
 
@@ -24,7 +24,14 @@
 
 ## 📌 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/nehal-reda-a4137a31b/in/YOURNAME/)  
-[![Behance](https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white)](https://www.behance.net/nehalreda25/YOURNAME)  
-[![Gmail](https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white)](mailto:nehalreda14@gmail.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/nehalreda25" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:nehalreda14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
