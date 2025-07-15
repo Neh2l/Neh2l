@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/sg9r469G/Chat-GPT-Image-Jul-15-2025-03-53-42-AM.png" alt="banner" width="100%" style="height: 350px; object-fit: cover;"/>
 
 
-# Hi 
+# Hi 💀
 
 ## Who am I?
 
