@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="35px" width="150px"/ >
   </a>
   <a href="https://www.behance.net/nehalreda25" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" height="35px" width="150px"/>
+    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" height="35px" width="150px" font-size="20px"/>
   </a>
   <a href="mailto:nehalreda14@gmail.com">
     <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" height="35px"width="150px" />
