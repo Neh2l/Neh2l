@@ -1,4 +1,5 @@
-<img src="https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png" alt="banner" width="100%" hight="200px"/>
+<img src="https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png" alt="banner" width="100%" style="height: 200px; object-fit: cover;"/>
+
 
 # Hi 
 
