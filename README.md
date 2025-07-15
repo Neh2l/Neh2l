@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/sg9r469G/Chat-GPT-Image-Jul-15-2025-03-53-42-AM.png" alt="banner" width="100%" style="height: 350px; object-fit: cover;"/>
 
 
-# Hi ✨
+# Hi 
 
 ## Who am I?
 
@@ -10,7 +10,7 @@
 -  Passionate about web design and creative coding  
 -  Dreaming of launching my own web studio
 
-## 💻 Skills
+##  Skills
 
 ### Programming
 - HTML, CSS, JavaScript  
@@ -23,7 +23,7 @@
 ### Tools
 - Git, GitHub, VS Code, Canva
 
-## 📌 Let's Connect
+##  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank">
