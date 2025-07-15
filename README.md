@@ -27,12 +27,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="35px" width="150px"/ >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" style="height: 22px; font-family: Arial;"/ >
   </a>
   <a href="https://www.behance.net/nehalreda25" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" height="35px" width="150px" font-size="20px"/>
+    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" style="height: 22px; font-family: Arial;"/>
   </a>
   <a href="mailto:nehalreda14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" style="height: 30px; font-family: Arial;" />
+    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" style="height: 22px; font-family: Arial;" />
   </a>
 </p>
