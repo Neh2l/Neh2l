@@ -1,7 +1,7 @@
-<img src="https://i.postimg.cc/RZwhtLDN/Chat-GPT-Image-Jul-15-2025-03-26-43-AM.png" alt="banner" width="100%" style="height: 200px; object-fit: cover;"/>
 
 
-# Hi 
+
+# Hi ✨
 
 ## Who am I?
 
@@ -27,12 +27,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30px"/ >
   </a>
   <a href="https://www.behance.net/nehalreda25" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white" height="30px"/>
   </a>
   <a href="mailto:nehalreda14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" height="30px" />
   </a>
 </p>
