@@ -1,8 +1,7 @@
-# Hi there, I'm Nehal ✨  
+# Hi , I'm Nehal ✨  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;CS+Student;ICPC+Contestant)](https://git.io/typing-svg)
 
----
 
 ## Who am I?
 - 3rd year Computer Science student, Zagazig University  
