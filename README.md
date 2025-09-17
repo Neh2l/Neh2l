@@ -1,16 +1,14 @@
 # Hi , I'm Nehal ✨  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;3rd+Year+CS+Student;Open+Source+Contributor;Always+learning+new+things+🚀" />
+</p>
+
  **Front-End Developer & UI/UX Designer**  
  3rd Year Computer Science Student @ Zagazig University  
  Trainee at Digital Egypt Pioneers Initiative (DEPI)  
  Passionate about building clean, creative, and user-friendly web apps  
 
----
-
-##  Fun Animated Intro  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;3rd+Year+CS+Student;Open+Source+Contributor;Always+learning+new+things+🚀" />
-</p>
 
 ---
 
