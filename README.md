@@ -10,17 +10,7 @@
 -  Currently learning React.js  
 -  Love creating clean & functional interfaces  
 
----
 
-## GitHub Stats
-![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehalreda25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehalreda25&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nehalreda25&theme=radical&border_radius=10)
-
----
-
-##  Contribution Snake
-![Snake animation](https://github.com/nehalreda25/nehalreda25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
