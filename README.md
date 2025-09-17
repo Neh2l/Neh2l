@@ -10,7 +10,7 @@
  Passionate about building clean, creative, and user-friendly web apps  
 
 
----
+
 
 ##  Socials  
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="https://github.com/nehalreda"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>  
 
----
+
 
 ##  Tech Stack  
 
