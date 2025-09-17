@@ -14,10 +14,10 @@
 
 ##  Socials  
 <p align="center">
-  <a href="mailto:nehalreda14@gmail.com  target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.behance.net/nehalreda25  target="_blank"><img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/nehalreda  target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:nehalreda14@gmail.com " target="_blank><img src="https://img.shields.io/badge/Gmail-d14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.behance.net/nehalreda25" target="_blank><img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/nehalreda" target="_blank><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>  
 
 
