@@ -50,6 +50,3 @@
 ---
 
 
-
-## 👀 Profile Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=Neh2l&color=blue&style=for-the-badge)  
