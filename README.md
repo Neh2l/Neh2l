@@ -1,4 +1,4 @@
-# Hi , I'm Nehal ✨  
+# Hi there, I'm Nehal ✨  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;CS+Student;ICPC+Contestant)](https://git.io/typing-svg)
 
@@ -23,6 +23,14 @@
 
 ## Let's Connect  
 
-📧 [nehalreda14@gmail.com](mailto:nehalreda14@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nehal-reda-a4137a31b/)  
-🎨 [Behance](https://www.behance.net/nehalreda25)  
+<p align="left">
+  <a href="mailto:nehalreda14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/nehalreda25" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
