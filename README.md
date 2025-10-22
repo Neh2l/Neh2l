@@ -1,4 +1,4 @@
-# Hi , I'm Nehal ✨  
+# Hi , I'm Nehal Reda ✨  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;3rd+Year+CS+Student;Open+Source+Contributor;Always+learning+new+things+" />
