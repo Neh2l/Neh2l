@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Nehal Reda ✨</h1>
+<h1 align="center"> Hi, I'm Nehal Reda ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Designer;3rd+Year+CS+Student;Always+learning+new+things!">
@@ -11,17 +11,17 @@
  3rd Year Computer Science Student @ Zagazig University  
  Front-End Developer & UI/UX Designer  
  Trainee at Digital Egypt Pioneers Initiative (DEPI)  
- I’m constantly improving my skills & building real-world projects  
+ I’m constantly improving my skills & building real-world projects
 
 ---
 
 <div align="right">
-  <img src="https://i.gifer.com/7VE.gif" width="230" style="border-radius:12px; margin-left:15px;" />
+  <img align="right" src="https://i.gifer.com/7VE.gif" width="250" style="border-radius:12px; margin: 10px;" />
 </div>
 
-## 🧠 Tech Stack
+##  Languages & Skills
 
-*Programming & Markup*
+*Programming*
 | HTML | CSS | JavaScript | C++ |
 |-----|-----|------------|-----|
 
