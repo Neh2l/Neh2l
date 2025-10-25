@@ -6,10 +6,12 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+
   
-  <div>
-  
+<table>
+  <tr>
+    <td>
+
   ## About Me
 
   - 3rd Year Computer Science Student @ Zagazig University  
@@ -17,11 +19,12 @@
   - Trainee at Digital Egypt Pioneers Initiative (DEPI)  
   - I’m constantly improving my skills & building real-world projects 🚀
 
-  </div>
-
-  <img src="https://media.tenor.com/xXTJZmW_yRoAAAAM/thrive-awake.gif" width="260" style="border-radius:12px;"/>
-
-</div>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/xXTJZmW_yRoAAAAM/thrive-awake.gif" width="260" style="border-radius:12px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
