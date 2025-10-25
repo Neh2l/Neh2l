@@ -6,17 +6,21 @@
 
 ---
 
-## About Me
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  
+  <div>
+  
+  ## About Me
 
-- 3rd Year Computer Science Student @ Zagazig University  
-- Front-End Developer & UI/UX Designer  
-- Trainee at Digital Egypt Pioneers Initiative (DEPI)  
-- I’m constantly improving my skills & building real-world projects 
+  - 3rd Year Computer Science Student @ Zagazig University  
+  - Front-End Developer & UI/UX Designer  
+  - Trainee at Digital Egypt Pioneers Initiative (DEPI)  
+  - I’m constantly improving my skills & building real-world projects 🚀
 
-<br><br> 
+  </div>
 
-<div align="right">
-  <img src="https://media.tenor.com/xXTJZmW_yRoAAAAM/thrive-awake.gif" width="260" style="border-radius:12px; margin-top: 10px;" />
+  <img src="https://media.tenor.com/xXTJZmW_yRoAAAAM/thrive-awake.gif" width="260" style="border-radius:12px;"/>
+
 </div>
 
 ---
