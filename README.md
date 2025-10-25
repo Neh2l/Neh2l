@@ -6,23 +6,18 @@
 
 ---
 
-##  About Me
+## About Me
 
- 3rd Year Computer Science Student @ Zagazig University  
- Front-End Developer & UI/UX Designer  
- Trainee at Digital Egypt Pioneers Initiative (DEPI)  
- I’m constantly improving my skills & building real-world projects
+3rd Year Computer Science Student @ Zagazig University  
+Front-End Developer & UI/UX Designer  
+Trainee at Digital Egypt Pioneers Initiative (DEPI)  
+I’m constantly improving my skills & building real-world projects.
 
 ---
 
-<!-- cinematic GIF on the right + "Greatness" badge beneath it -->
-<div align="right">
-  <img align="right" src="https://i.gifer.com/7VE.gif" width="250" style="border-radius:12px; margin: 10px;" />
-  <br />
-  <img src="https://img.shields.io/badge/GREATNESS-F75C7E?style=for-the-badge&logo=&logoColor=white" alt="Greatness Badge" style="margin-right:10px; margin-top:8px;" />
-</div>
+<img align="right" src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="250"/>
 
-##  Tech Stack  
+## Tech Stack  
 
 Programming & Markup:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -44,7 +39,7 @@ Design & Tools:
 
 ---
 
-##  Socials  
+## Socials  
 <p align="center">
   <a href="mailto:nehalreda14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -55,13 +50,13 @@ Design & Tools:
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neh2l&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neh2l&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehalreda&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalreda&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neh2l&theme=radical&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehalreda&theme=radical&layout=compact" height="150"/>
 </p>
