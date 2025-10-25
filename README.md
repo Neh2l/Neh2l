@@ -15,8 +15,11 @@
 
 ---
 
+<!-- cinematic GIF on the right + "Greatness" badge beneath it -->
 <div align="right">
   <img align="right" src="https://i.gifer.com/7VE.gif" width="250" style="border-radius:12px; margin: 10px;" />
+  <br />
+  <img src="https://img.shields.io/badge/GREATNESS-F75C7E?style=for-the-badge&logo=&logoColor=white" alt="Greatness Badge" style="margin-right:10px; margin-top:8px;" />
 </div>
 
 ##  Tech Stack  
