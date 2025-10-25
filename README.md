@@ -17,7 +17,7 @@
   - 3rd Year Computer Science Student @ Zagazig University  
   - Front-End Developer & UI/UX Designer  
   - Trainee at Digital Egypt Pioneers Initiative (DEPI)  
-  - I’m constantly improving my skills & building real-world projects 🚀
+  - I’m constantly improving my skills & building real-world projects 
 
     </td>
     <td>
