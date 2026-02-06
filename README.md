@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Designer;3rd+Year+CS+Student;Always+learning+new+things!">
 </p>
 
-
+----
 ###  About Me  
 
 <table>
