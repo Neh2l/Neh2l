@@ -11,11 +11,9 @@
   <tr>
     <td style="min-width:280px; vertical-align:top;">
 
--  3rd Year Computer Science Student @ Zagazig University  
+- Computer Science Student @ Zagazig University  
 -  Front-End Developer & UI/UX Designer  
 -  Trainee at Digital Egypt Pioneers Initiative (DEPI)  
--  Constantly improving my skills & building real-world projects  
-
     </td>
     <td align="center">
       <img src="https://media.tenor.com/xXTJZmW_yRoAAAAM/thrive-awake.gif" width="250" style="border-radius:12px; max-width:100%;">
