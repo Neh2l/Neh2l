@@ -1,62 +1,63 @@
-<h1 align="center">NEHAL REDA</h1>
+<h1 align="center">
+  NEHAL REDA
+</h1>
 
 <p align="center">
-  <strong>FRONT-END DEVELOPER</strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  UI/UX DESIGNER
+  <sub>FRONT-END DEVELOPER &nbsp;·&nbsp; UI/UX DESIGNER</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:nehalreda14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    LinkedIn
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/nehalreda25">
-    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
+    Behance
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Neh2l">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    GitHub
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nehalreda14@gmail.com">
+    Email
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  I design and build digital experiences where clean interfaces
-  meet thoughtful front-end development.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=180&section=header&text=NEHAL%20REDA&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=FRONT-END%20%2F%20UI%20%2F%20UX&descAlignY=65&descSize=14"
+    width="100%"
+  />
 </p>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ABOUT
+## PROFILE
 
-Computer Science student at
-**Zagazig University**
+I’m a Computer Science student at **Zagazig University** focused on front-end development and digital design.
 
-Focused on creating modern, responsive
-interfaces with a strong interest in
-UI/UX and web design.
+I enjoy building interfaces that are clean, responsive, and intentional — where visual design and engineering work together.
+
+Currently working mainly with **React.js**, while continuously exploring UI/UX, web design, and modern development workflows.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### CURRENTLY
+## FOCUS
 
-Working with
-
-`React.js`
-`JavaScript`
-`Tailwind CSS`
-`Figma`
-
-Currently exploring **Data Analytics & Power BI**.
+**01** — Front-end Development
+**02** — UI / UX Design
+**03** — Responsive Interfaces
+**04** — Design Systems
+**05** — Creative Web Experiences
 
 </td>
 </tr>
@@ -72,12 +73,15 @@ Currently exploring **Data Analytics & Power BI**.
 
 ### SHOPLY
 
-Full-stack e-commerce platform with product discovery, authentication, cart, wishlist, checkout, and order management.
+**Full-Stack E-Commerce**
 
-**React · Tailwind · Redux · Node · Express · MongoDB**
+A complete shopping experience covering authentication, products, cart, wishlist, checkout, and orders.
 
-<a href="https://deep-dive-final-project-7slr.vercel.app/">Live →</a>
-   <a href="https://github.com/Neh2l/DeepDive-FinalProject">Code →</a>
+`React.js` `Tailwind` `Redux`
+`Node.js` `Express` `MongoDB`
+
+**[LIVE ↗](https://deep-dive-final-project-7slr.vercel.app/)**
+**[SOURCE ↗](https://github.com/Neh2l/DeepDive-FinalProject)**
 
 </td>
 
@@ -85,9 +89,12 @@ Full-stack e-commerce platform with product discovery, authentication, cart, wis
 
 ### ICLINIC
 
-Healthcare web experience focused on clear navigation, responsive layouts, and a simple user journey.
+**Healthcare Experience**
 
-**React · JavaScript · CSS · REST API**
+A modern healthcare interface designed around simple navigation, responsive layouts, and a clear user journey.
+
+`React.js` `JavaScript`
+`CSS` `REST API`
 
 </td>
 </tr>
@@ -97,19 +104,21 @@ Healthcare web experience focused on clear navigation, responsive layouts, and a
 
 ### ELEGANT TREASURES
 
-A premium jewelry concept inspired by Egyptian heritage and translated into a contemporary digital experience.
+**Luxury Jewelry Concept**
 
-**UI/UX · Figma · Web Design**
+A visual concept inspired by Egyptian heritage, translated into a contemporary premium web experience.
+
+`UI/UX` `Figma` `Web Design`
 
 </td>
 
 <td width="50%" valign="top">
 
-### MORE PROJECTS
+### MORE
 
-More experiments, interfaces, and front-end work are available on my GitHub and Behance.
+More interfaces, experiments, and front-end work live across my GitHub and Behance.
 
-<a href="https://github.com/Neh2l">Explore GitHub →</a>
+**[EXPLORE WORK ↗](https://github.com/Neh2l)**
 
 </td>
 </tr>
@@ -117,25 +126,57 @@ More experiments, interfaces, and front-end work are available on my GitHub and 
 
 <br>
 
-## TOOLKIT
+## STACK
 
-| Development             | Design     | Workflow |
-| :---------------------- | :--------- | :------- |
-| HTML · CSS · JavaScript | Figma      | Git      |
-| React.js                | Canva      | GitHub   |
-| Tailwind CSS            | UI/UX      | VS Code  |
-| Bootstrap               | Web Design |          |
+<p align="center">
+
+`HTML`   `CSS`   `JavaScript`   `React.js`
+`Tailwind CSS`   `Bootstrap`   `C++`
+`Figma`   `Canva`   `Git`   `GitHub`
+
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### EXPERIENCE
+
+**Digital Egypt Pioneers Initiative**
+Front-End Development — React.js
+
+**ITI — Information Technology Institute**
+Front-End Development
+
+</td>
+
+<td width="50%">
+
+### NOW
+
+Exploring
+
+**Data Analytics**
+**Power BI**
+**Advanced React**
+**UI/UX**
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/">LINKEDIN</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.behance.net/nehalreda25">BEHANCE</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:nehalreda14@gmail.com">EMAIL</a>
 </p>
 
 <p align="center">
-  <sub>© 2026 Nehal Reda</sub>
+  <sub>© 2026 NEHAL REDA</sub>
 </p>
