@@ -1,106 +1,141 @@
-<h1 align="center">Nehal Reda</h1>
+<h1 align="center">NEHAL REDA</h1>
 
 <p align="center">
-  <sup>FRONT-END DEVELOPER / UI DESIGNER</sup>
+  <strong>FRONT-END DEVELOPER</strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  UI/UX DESIGNER
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/">linkedin</a>
-  &nbsp;&nbsp;
-  <a href="https://www.behance.net/nehalreda25">behance</a>
-  &nbsp;&nbsp;
-  <a href="mailto:nehalreda14@gmail.com">email</a>
+  <a href="mailto:nehalreda14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/nehalreda25">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://github.com/Neh2l">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <i>Building interfaces that feel as good as they work.</i>
+  I design and build digital experiences where clean interfaces
+  meet thoughtful front-end development.
 </p>
 
 <br>
 
-## 01 — Profile
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-Computer Science student at Zagazig University, working across
-front-end development and digital design.
+### ABOUT
 
-I enjoy turning ideas into interfaces with a strong focus on
-visual hierarchy, interaction, responsiveness, and detail.
+Computer Science student at
+**Zagazig University**
 
-Currently working with **React.js** and exploring better ways to
-connect thoughtful design with solid front-end development.
+Focused on creating modern, responsive
+interfaces with a strong interest in
+UI/UX and web design.
+
+</td>
+
+<td width="50%" valign="top">
+
+### CURRENTLY
+
+Working with
+
+`React.js`
+`JavaScript`
+`Tailwind CSS`
+`Figma`
+
+Currently exploring **Data Analytics & Power BI**.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 02 — What I Do
+## SELECTED WORK
 
-```text
-FRONT-END
-React.js / JavaScript / HTML / CSS
-Tailwind CSS / Bootstrap
-
-DESIGN
-UI / UX / Figma / Web Design
-
-WORKFLOW
-Git / GitHub / VS Code
-```
-
-<br>
-
-## 03 — Selected Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### SHOPLY
 
-A full-stack e-commerce experience built around product discovery,
-authentication, shopping, checkout, and order management.
+Full-stack e-commerce platform with product discovery, authentication, cart, wishlist, checkout, and order management.
 
-`React.js` `Tailwind CSS` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
+**React · Tailwind · Redux · Node · Express · MongoDB**
 
-[view project →](https://deep-dive-final-project-7slr.vercel.app/)
+<a href="https://deep-dive-final-project-7slr.vercel.app/">Live →</a>
+   <a href="https://github.com/Neh2l/DeepDive-FinalProject">Code →</a>
 
-[view source →](https://github.com/Neh2l/DeepDive-FinalProject)
+</td>
 
----
+<td width="50%" valign="top">
 
 ### ICLINIC
 
-A healthcare platform designed around clarity, accessibility,
-and a straightforward user experience.
+Healthcare web experience focused on clear navigation, responsive layouts, and a simple user journey.
 
-`React.js` `JavaScript` `CSS` `REST API`
+**React · JavaScript · CSS · REST API**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ELEGANT TREASURES
 
-A jewelry concept combining contemporary web design with
-Egyptian-inspired visual language.
+A premium jewelry concept inspired by Egyptian heritage and translated into a contemporary digital experience.
 
-`UI/UX` `Figma` `Responsive Design`
+**UI/UX · Figma · Web Design**
+
+</td>
+
+<td width="50%" valign="top">
+
+### MORE PROJECTS
+
+More experiments, interfaces, and front-end work are available on my GitHub and Behance.
+
+<a href="https://github.com/Neh2l">Explore GitHub →</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 04 — Currently
+## TOOLKIT
 
-Learning more about:
-
-**Data Analytics · Power BI · Advanced React · UI/UX**
-
-Building projects, experimenting with interfaces, and continuously
-improving the way I approach both design and development.
-
-<br>
-
-## 05 — Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/nehal-reda-a4137a31b/)
-[Behance](https://www.behance.net/nehalreda25)
-[GitHub](https://github.com/Neh2l)
+| Development             | Design     | Workflow |
+| :---------------------- | :--------- | :------- |
+| HTML · CSS · JavaScript | Figma      | Git      |
+| React.js                | Canva      | GitHub   |
+| Tailwind CSS            | UI/UX      | VS Code  |
+| Bootstrap               | Web Design |          |
 
 <br>
 
 <p align="center">
-  <sub>© Nehal Reda — 2026</sub>
+  <a href="https://www.linkedin.com/in/nehal-reda-a4137a31b/">LINKEDIN</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.behance.net/nehalreda25">BEHANCE</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:nehalreda14@gmail.com">EMAIL</a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Nehal Reda</sub>
 </p>
